@@ -1,5 +1,7 @@
-# My Recipes
+# My Recipes [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > Recipes I made in [Paprika](https://www.paprikaapp.com)
+
+I exclude all foods that are not healthy to me and experiment with recipes from the many foods that are healthy. I follow a mostly whole foods pesceterian diet.
 
 You can clone this repository to easily download the recipes to Paprika app.
 
