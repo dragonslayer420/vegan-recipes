@@ -17,8 +17,5 @@ You can clone this repository to easily download the recipes to Paprika app.
 - [Grim Grains](http://grimgrains.com/)
 - [Allrecipes](https://www.allrecipes.com/)
 
-## Thank you 💜
-You can support me on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
-
 ## License
-MIT © [Nikita Voloboev](https://nikitavoloboev.xyz)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
