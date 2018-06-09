@@ -1,7 +1,7 @@
 # My Recipes
 > Recipes I made in [Paprika](https://www.paprikaapp.com)
 
-I exclude all foods that are not healthy to me and experiment with recipes from the [many foods](https://wiki.nikitavoloboev.xyz/health/nutrition/foods.html) that are healthy. I follow a mostly whole foods pesceterian diet.
+I exclude all foods that are not healthy and experiment with recipes from the [many foods](https://wiki.nikitavoloboev.xyz/health/nutrition/foods.html) that are healthy. I follow a mostly whole foods pesceterian diet.
 
 You can clone this repository to easily download the recipes to Paprika app.
 
