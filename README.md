@@ -1,17 +1,10 @@
 # My Recipes
 > Recipes I made in [Paprika](https://www.paprikaapp.com)
 
-I exclude all foods that are not healthy and experiment with recipes from the [many foods](https://wiki.nikitavoloboev.xyz/health/nutrition/foods.html) that are healthy. I follow a mostly whole foods pescetarian diet.
+The recipes are sorted into categories and there you will find various recipes and how you can cook them. I also provide [Paprika](https://www.paprikaapp.com) files so you can clone this repository and easily download the recipes to Paprika app.
 
-You can clone this repository to easily download the recipes to Paprika app.
-
-## [Salads](salads)
-### Salad with tomatoes, feta cheese and avocado (★★★★★)
-![](https://i.imgur.com/mjWbEVh.png)
-
-## [Fish](fish)
-### Salmon with soy sauce (★★★★★)
-![](https://i.imgur.com/nnf4T6G.png)
+## Categories
+- [Salads](salads/README.md#readme)
 
 ## Related
 - [Grim Grains](http://grimgrains.com/)
