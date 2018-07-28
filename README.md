@@ -1,4 +1,4 @@
-# Vegan Recipes
+# Pescatarian Recipes
 The recipes are sorted into categories and there you will find various recipes and how you can cook them. I also provide [Paprika](https://www.paprikaapp.com) files so you can clone this repository and easily download the recipes to Paprika app.
 
 ## Categories
