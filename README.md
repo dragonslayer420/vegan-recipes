@@ -4,7 +4,7 @@ The recipes are sorted into categories and there you will find various recipes a
 
 ## Categories
 
-- [Salads](salads/README.md#readme)
+- [Smoothies](smoothies/README.md#readme)
 
 ## Related
 
